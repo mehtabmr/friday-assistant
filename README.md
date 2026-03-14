@@ -1,4 +1,4 @@
-<p align="center"><img src="friday_banner.png" width="100%"/></p>
+file_00000000c7107208854b55cfcc25f7ef.png
 # F.R.I.D.A.Y — Personal AI Assistant
 
 Built by Miraz | Age 20 | Android Phone + Termux Only 🔥
