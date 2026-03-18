@@ -1,3 +1,7 @@
+## 🚀 FRIDAY Demo
+
+🔥 See my AI Assistant in action  
+👉 [▶️ Watch Full Demo](https://www.youtube.com/@MrMehtab-n5c)
 <p align="center"><img src="file_00000000c7107208854b55cfcc25f7ef.png" width="100%"/></p>
 # F.R.I.D.A.Y — Personal AI Assistant
 
